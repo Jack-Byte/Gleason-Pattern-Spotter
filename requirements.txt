@@ -4,6 +4,6 @@ pillow<7
 packaging
 ipywidgets==7.5.1
 opencv-python
-torchvision==0.6.0a0+35d732a
+torchvision
 bokeh==2.0.1
 
