@@ -13,7 +13,7 @@ Aufgrund von Fehlern in meinem Code war es mir nicht möglich, den Ansatz für d
 ### Webanwendung
 Per Klick auf den nachfolgenden Button wird ein Server gestartet und die Anwendung kann getestet werden. **Dies kann bis zu fünf Minuten dauern.**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/Gleason-Pattern-Spotter/master?urlpath=%2Fvoila%2Frender%2Fgleason-pattern-spotter-de.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/Gleason-Pattern-Spotter/master?urlpath=%2Fvoila%2Frender%2Fgleason-pattern-spotter.ipynb)
 ----------------------------------------------------------------------------------
 ## English
 The Gleason Pattern Spotter is a web application that takes a prostate cancer image, divides the image into a grid of several boxes, and then detects the Gleason Pattern for each box. 
