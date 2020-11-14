@@ -5,7 +5,7 @@ packaging==20.4
 ipywidgets==7.5.1
 opencv-python==4.4.0.44
 torch==1.6.0
-install datashader==0.11.0
+datashader==0.11.0
 panel==0.9.5
 torchvision==0.7.0
 bokeh==2.0.2
